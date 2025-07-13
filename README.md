@@ -18,6 +18,7 @@ This series covers the essential building blocks every beginner should understan
 |Non functional requirements|[LINK](https://youtu.be/Okg413K7Q2E)|
 |CAP theorem|[LINK](https://youtu.be/PnPULsHl_I8)|
 ## System design interview preparation
+This series dives into real-world system design questions commonly asked in technical interviews. Each video focuses on designing a specific large-scale system or distributed component—such as distributed queues, job schedulers, caching systems, and popular services like TinyURL and YouTube. These examples help you apply core design principles in practical scenarios, understand trade-offs, and structure your answers effectively. More videos will be added over time to expand the coverage of different system types and architectures.
 |Topic name|Video link|
 |---------:|:--------:|
 |Distributed message queues|[LINK](https://youtu.be/xuj62aOZLnE)|
