@@ -15,3 +15,4 @@
 |Consistent hashing|[LINK](https://youtu.be/5q0gZ6WczUA)|
 |Non functional requirements|[LINK](https://youtu.be/Okg413K7Q2E)|
 |CAP theorem|[LINK](https://youtu.be/PnPULsHl_I8)|
+## Fundamentals of system design
