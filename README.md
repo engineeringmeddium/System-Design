@@ -17,4 +17,11 @@ This series covers the essential building blocks every beginner should understan
 |Consistent hashing|[LINK](https://youtu.be/5q0gZ6WczUA)|
 |Non functional requirements|[LINK](https://youtu.be/Okg413K7Q2E)|
 |CAP theorem|[LINK](https://youtu.be/PnPULsHl_I8)|
-## Fundamentals of system design
+## System design interview preparation
+|Topic name|Video link|
+|---------:|:--------:|
+|Distributed message queues|[LINK](https://youtu.be/xuj62aOZLnE)|
+|Distributed job scheduler|[LINK](https://youtu.be/tlAuk1gkcqs)|
+|Distributed caching (Redis, Memcached)|[LINK](https://youtu.be/Li0JaAgsynM)|
+|URL shortening service (TinyURL, Bit.ly)|[LINK](https://youtu.be/HwhiSUotRUo)|
+|Video streaming service (Youtube, Netflix)|[LINK](https://youtu.be/FMX6DrFI38U)|
