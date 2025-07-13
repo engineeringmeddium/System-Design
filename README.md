@@ -1,4 +1,4 @@
-# System design resources
+# System design
 ![em banner](https://github.com/user-attachments/assets/e25cad4d-a31a-4924-acb9-01b2e9e22616)
 System design is a vital aspect of preparing for software engineering role interviews—not just at MAANG companies, but across startups and other tech-driven organizations. It helps demonstrate your ability to architect scalable, reliable, and maintainable systems—skills that are increasingly expected from engineers at all levels. Even outside the interview context, learning system design sharpens your understanding of software architecture, trade-offs, and real-world problem solving. This repository indexes my YouTube videos to help you systematically build and strengthen your system design skills.
 ## Fundamentals of system design 
