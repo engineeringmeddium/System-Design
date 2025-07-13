@@ -26,3 +26,8 @@ This series dives into real-world system design questions commonly asked in tech
 |Distributed caching (Redis, Memcached)|[LINK](https://youtu.be/Li0JaAgsynM)|
 |URL shortening service (TinyURL, Bit.ly)|[LINK](https://youtu.be/HwhiSUotRUo)|
 |Video streaming service (Youtube, Netflix)|[LINK](https://youtu.be/FMX6DrFI38U)|
+## License
+
+This repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You are free to **view and share** the content **with proper attribution**, but **modification, commercial use, or forking is not permitted**.
